@@ -1,4 +1,4 @@
-#2019_06_21
+# 2019_06_21
 
 El día de hoy se revisaron conceptos básicos respecto al estado en el que se puede encontrar un proceso en el Sistema Operativo: *Waiting*, *Ready*, *Running* y *Done*.
 
